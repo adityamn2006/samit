@@ -3,5 +3,5 @@ This is my 1st program Which i uploaded to github
 
 
 # About 
-This is Repo is about Uploading an Files to github
+This Repo is about Uploading an Files to github
 With git bash
